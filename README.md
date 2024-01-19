@@ -3,7 +3,7 @@
 
 # Yamaha Gear Calculator
 
-![Calculator Image](https://i.ibb.co/hLrLfB7/image.png)
+<a href="https://ibb.co/hLrLfB7"><img src="https://i.ibb.co/TYJYL4v/image.png" alt="image" border="0"></a>
 
 This is a simple Yamaha Gear Calculator tool designed for use with the Yamaha Datalogger to work out gear ratios. It allows you to input data in rows of 6x8 for each gear and calculates gear variations and constants based on RPM and speed data.
 
