@@ -7,7 +7,7 @@ def calculate_gear(RPM, speed):
     speed_decimal = int(speed, 16)
 
     # Calculate the gear variation
-    gear_variation = (speed_decimal / RPM_decimal) * 50
+    gear_variation = (speed_decimal / RPM_decimal)
 
     return gear_variation
 
